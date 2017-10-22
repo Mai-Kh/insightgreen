@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE Coin>
+
+<!ELEMENT Coin (Name, symbol, website, twitter)>
+
+<!ELEMENT Name (#PCDATA)>
+
+<!ELEMENT symbol (#PCDATA)>
+
+<!ELEMENT website (#PCDATA)>
+
+<!ELEMENT twitter (#PCDATA)>

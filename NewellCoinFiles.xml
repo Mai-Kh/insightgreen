@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="NewellCoinFiles.css"?>
+<!DOCTYPE CoinList SYSTEM "InsightGreenSemanticAnalysis.dtd">
+<Coins>
+	<Coin>
+		<Name>Bitcoin Core</Name>
+			<symbol>BTC</symbol>
+			<website>bitcoincore.org</website>
+			<twitter>@bitcoincoreorg</twitter>
+	</Coin>
+   
+	<Coin>
+		<Name>Ethereum</Name>
+			<symbol>ETH</symbol>
+			<website>ethereum.org</website>
+  			<twitter>@ethereumproject</twitter>
+	</Coin>
+	
+	<Coin>
+		<Name>Ripple</Name>
+			<symbol>XRP</symbol>
+			<website>ripple.com</website>
+  			<twitter>@ripple</twitter>
+	</Coin>
+	
+	<Coin>
+		<Name>Bitcoin Cash</Name>
+			<symbol>BCH</symbol>
+			<website>bitcoincash.org</website>
+  			<twitter>@BITCOINCASH</twitter>
+	</Coin>
+
+	<Coin>
+		<Name>Litecoin</Name>
+			<symbol>LTC</symbol>
+			<website>litecoin.org</website>
+  			<twitter>@litecoin</twitter>
+	</Coin>
+
+	<Coin>
+		<Name>Dash</Name>
+			<symbol>DASH</symbol>
+			<website>dash.org</website>
+  			<twitter>@Dashpay</twitter>
+	</Coin>
+	
+		<Coin>
+		<Name>NEM</Name>
+			<symbol>XEM</symbol>
+			<website>nem.io</website>
+  			<twitter>@NEMofficial</twitter>
+	</Coin>
+	
+		<Coin>
+		<Name>NEO</Name>
+			<symbol>NEO</symbol>
+			<website>neo.org</website>
+  			<twitter>@NEO_Blockchain</twitter>
+	</Coin>
+	
+		<Coin>
+		<Name>Monero</Name>
+			<symbol>XMR</symbol>
+			<website>getmonero.org</website>
+  			<twitter>@monerocurrency</twitter>
+	</Coin>
+	
+		<Coin>
+		<Name>BitConnect</Name>
+			<symbol>BCC</symbol>
+			<website>bitconnectcoin.co</website>
+  			<twitter>@bitconnect</twitter>
+	</Coin>
+	
+		<Coin>
+		<Name>Ethereum Classic</Name>
+			<symbol>ETC</symbol>
+			<website>ethereumclassic.github.io / etcchain.com</website>
+  			<twitter>@eth_classic / @EthereumClass</twitter>
+	</Coin>
+	
+		<Coin>
+		<Name>IOTA</Name>
+			<symbol>IOTA</symbol>
+			<website>iota.org</website>
+  			<twitter>@iotatoken</twitter>
+  			</Coin>
+  			
+  			<Coin>
+		<Name>Qtum</Name>
+			<symbol>QTUM</symbol>
+			<website>qtum.org/</website>
+  			<twitter>@QtumOfficial</twitter>
+	</Coin>
+	
+			<Coin>
+		<Name>Cardano</Name>
+			<symbol>ADA</symbol>
+			<website>cardanohub.org/</website>
+  			<twitter>@Cardano_</twitter>
+	</Coin>
+	
+			<Coin>
+		<Name>OmisGO</Name>
+			<symbol>OMG</symbol>
+			<website>omg.omise.co/</website>
+  			<twitter>@omise_go</twitter>
+	</Coin>
+	
+			<Coin>
+		<Name>Stellar Lumens</Name>
+			<symbol>XLM</symbol>
+			<website>www.stellar.org/</website>
+  			<twitter>@StellarOrg</twitter>
+	</Coin>
+	
+			<Coin>
+		<Name>Lisk</Name>
+			<symbol>LSK</symbol>
+			<website>lisk.io/</website>
+  			<twitter>@LiskHQ</twitter>
+	</Coin>
+	
+			<Coin>
+		<Name>Zcash</Name>
+			<symbol>ZEC</symbol>
+			<website>z.cash/</website>
+  			<twitter>@zcashco</twitter>
+	</Coin>
+	
+			<Coin>
+		<Name>Tether</Name>
+			<symbol>USDT</symbol>
+			<website>tether.to/</website>
+  			<twitter>@Tether_to</twitter>
+	</Coin>
+	
+			<Coin>
+		<Name>Waves</Name>
+			<symbol>WAVES</symbol>
+			<website>wavesplatform.com/</website>
+  			<twitter>@wavesplatform</twitter>
+	</Coin>
+	
+</Coins>
