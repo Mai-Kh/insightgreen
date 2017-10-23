@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/css" href="NewellCoinFiles.css"?>
-<!DOCTYPE CoinList SYSTEM "InsightGreenSemanticAnalysis.dtd">
+<!DOCTYPE Coins SYSTEM "InsightGreenSemanticAnalysis.dtd">
 <Coins>
 	<Coin>
 		<Name>Bitcoin Core</Name>
